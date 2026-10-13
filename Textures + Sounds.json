@@ -1,0 +1,396 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "rivals files",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Font",
+          "replace_ids": [
+            12187323909,
+            12187320363,
+            12187354260,
+            12187342816,
+            12187280273,
+            12187303601,
+            12187262242,
+            12187288714,
+            12187341500,
+            12187271237,
+            12187341020
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/KGBlankSpaceSolid.ttf"
+        },
+        {
+          "name": "Remove Spark Head shot",
+          "replace_ids": [
+            15109829804
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 109303978243933
+        },
+        {
+          "name": "Remove Background item",
+          "replace_ids": [
+            13220167337,
+            13188242420,
+            13220167472,
+            13188153054,
+            13188242287
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Arena Textures",
+          "replace_ids": [
+            7658055825
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 6372755229
+        },
+        {
+          "name": "lvl icon",
+          "replace_ids": [
+            81461991645938
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 81461991645938
+        },
+        {
+          "name": "SBK",
+          "replace_ids": [
+            2108482005,
+            14147881792,
+            135908632589654,
+            84214501374682,
+            10196550937,
+            12261809766
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "SDN",
+          "replace_ids": [
+            2108545280,
+            10196550667,
+            14147882149,
+            103020541883227,
+            89972436184102,
+            12261813110
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "SLF",
+          "replace_ids": [
+            14147883091,
+            135908632589654,
+            84214501374682,
+            2108482395,
+            12261809766,
+            10196550128
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "SRT",
+          "replace_ids": [
+            14147882405,
+            135908632589654,
+            84214501374682,
+            2108482542,
+            12261809766,
+            10196549902
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "SUP",
+          "replace_ids": [
+            14147881297,
+            72960281658487,
+            92138082970751,
+            2108482676,
+            10196567794,
+            12261813678
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "SFT",
+          "replace_ids": [
+            14147882761,
+            12261809766,
+            135908632589654,
+            84214501374682,
+            10196550367,
+            2108482231
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Remove Ambence On Varius Maps",
+          "replace_ids": [
+            17813065011,
+            17813065464,
+            12099785239
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Arch Changer",
+          "replace_ids": [
+            133793956251748
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/archnem.png"
+        },
+        {
+          "name": "Nem Changer",
+          "replace_ids": [
+            116941545385923
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/nemesis.png"
+        },
+        {
+          "name": "Bronze Changer",
+          "replace_ids": [
+            106623367501544,
+            131795064007344,
+            73543520622815
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/bronze1.png"
+        },
+        {
+          "name": "silver 1",
+          "replace_ids": [
+            80716950169934
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/silver1.png"
+        },
+        {
+          "name": "silver 2",
+          "replace_ids": [
+            136100661820261
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/silver2.png"
+        },
+        {
+          "name": "silver 3",
+          "replace_ids": [
+            107898816876115
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/silver3.png"
+        },
+        {
+          "name": "gold 1",
+          "replace_ids": [
+            134520747948636
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/gold1.png"
+        },
+        {
+          "name": "gold 2",
+          "replace_ids": [
+            114166096331502
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/gold2.png"
+        },
+        {
+          "name": "gold 3",
+          "replace_ids": [
+            90039594400813
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/gold3.png"
+        },
+        {
+          "name": "plat 1",
+          "replace_ids": [
+            133903971285645
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/plat1.png"
+        },
+        {
+          "name": "plat 2",
+          "replace_ids": [
+            82834564754747
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/plat2.png"
+        },
+        {
+          "name": "plat 3",
+          "replace_ids": [
+            73345783863790
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/plat3.png"
+        },
+        {
+          "name": "diam 1",
+          "replace_ids": [
+            113997689031026
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/diamond1.png"
+        },
+        {
+          "name": "diam2",
+          "replace_ids": [
+            88059506918419
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/diamond2.png"
+        },
+        {
+          "name": "diam 3",
+          "replace_ids": [
+            112183171942172
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/diamond3.png"
+        },
+        {
+          "name": "o1",
+          "replace_ids": [
+            104871954739030
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/onyx1.png"
+        },
+        {
+          "name": "o2",
+          "replace_ids": [
+            109012386782238
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/onyx2.png"
+        },
+        {
+          "name": "o3",
+          "replace_ids": [
+            127982903682334
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/onyx3.png"
+        },
+        {
+          "name": "Streak icon",
+          "replace_ids": [
+            17175092502,
+            17094014569
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18404346057
+        },
+        {
+          "name": "Unranked icon",
+          "replace_ids": [
+            99115398611290
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/icbtw.png"
+        },
+        {
+          "name": "Chat Data",
+          "replace_ids": [
+            101218118381254
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/kaizenkentism/Custom-Texture-Tism-Special/main/chatdata.json"
+        },
+        {
+          "name": "Remove Pattern",
+          "replace_ids": [
+            136887158756561
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Delete icon",
+          "replace_ids": [
+            16802957270
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 130413597135596
+        },
+        {
+          "name": "Sata Andagi Kill SFX",
+          "replace_ids": [
+            16530229616,
+            16530229541,
+            16530229695
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 135097031120155
+        },
+        {
+          "name": "Head Hit SFX",
+          "replace_ids": [
+            16537337310,
+            16537449730
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 7128958209
+        },
+        {
+          "name": "Body Hit SFX",
+          "replace_ids": [
+            13110130082
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 5852470908
+        }
+      ]
+    }
+  ]
+}
